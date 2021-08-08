@@ -1,2 +1,2 @@
 # minis
-a collection of mini projects
+a collection of mini projects.
