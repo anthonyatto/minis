@@ -1,4 +1,11 @@
+# R project files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# dashboard-demo
+dashboard-demo/dashboard_files
+dashboard-demo/*.R
+dashboard-demo/data
+dashboard-demo/*.html
